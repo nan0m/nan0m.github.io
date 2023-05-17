@@ -1,0 +1,11 @@
+3-sections / default.sass to set the default font background color and so on! this is just for the default theme
+all.sass you can actually set it, this is the most base thing I think
+
+
+The code for embedding a local video is
+
+<video width="100%" preload="auto" muted controls>
+    <source src="assets\videos\test_vid.mp4" type="video/mp4"/>
+</video>
+
+because chrome wont let videos that have sound play standard you have to have muted maybe to have it work on all possible devices
