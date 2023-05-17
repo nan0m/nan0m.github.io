@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\img",
-    "\\assets\\img\\projects",
-    "\\assets\\img\\projects\\MyUKVisaExperience",
-    "\\assets\\img\\projects\\proj-1",
-    "\\assets\\img\\projects\\proj-2",
-    "\\assets\\img\\projects\\Towers",
+    "\\assets\\css",
     "\\assets\\videos",
-    "\\_includes"
+    "\\projects",
+    "\\_data",
+    "\\_includes",
+    "\\_sass",
+    "\\_sass\\1-tools",
+    "\\_sass\\3-sections"
   ],
-  "SelectedNode": "\\projects\\Python.md",
+  "SelectedNode": "\\favicon.ico",
   "PreviewInSolutionExplorer": false
 }
