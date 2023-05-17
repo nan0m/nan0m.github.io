@@ -3,6 +3,7 @@
 port: 4000
 markdown:  kramdown
 permalink: /:title
+baseurl: "nan0m.github.io"
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
