@@ -1,7 +1,7 @@
 port: 4000
 markdown: kramdown
 permalink: '/:title'
-url: 'https://nan0m.github.io/'
+url: ""
 baseurl: nan0m.github.io
 plugins:
   - jekyll-sitemap
