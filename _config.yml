@@ -1,13 +1,12 @@
-# Build settings
-
 port: 4000
-markdown:  kramdown
-permalink: /:title
-baseurl: "nan0m.github.io"
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-title:		   "nan0m | Fabian Bubla"
-description: "nan0m portfolio"
-author:      "nan0m"
+markdown: kramdown
+permalink: '/:title'
+url: 'https://nan0m.github.io/'
+baseurl: nan0m.github.io
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+title: nan0m | Fabian Bubla
+description: nan0m portfolio
+author: nan0m

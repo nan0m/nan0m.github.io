@@ -19,14 +19,14 @@ menu:
 # Projects Section
 
 projects:
-- {name: ' WIP: Towers - A Tiny Game',  url: 'Towers'}
+- {name: 'WIP: Towers - A Tiny Game',  url: 'Towers'}
 - {name: 'TKI Racer',  url: 'TKIRacer'}
 - {name: 'Gibels Quest',   url: 'GibelsQuest'}
-- {name: 'WIP Music Visualizer for "Outskirts"',  url: 'OutskirtsVisualizer'}
+- {name: 'WIP Music Visualizer for Outskirts',  url: 'OutskirtsVisualizer'}
 - {name: 'Gravity Blade', url: 'GravityBlade'}
 - {name: 'Emotion Journal',  url: 'EmotionJournal'}
 - {name: 'Danis Inferno',  url: 'DanisInferno'}
-- {name: 'Leber-Olympiade',  url: 'LeberOlympiade'}
+- {name: 'Leber Olympiade',  url: 'LeberOlympiade'}
 - {name: 'My UK Visa Experience',  url: 'MyUKVisaExperience'}
 - {name: 'Clerica',   url: 'Clerica'}
 - {name: 'Finlay Founds Magical Return Service',   url: 'FinlayFound'}
