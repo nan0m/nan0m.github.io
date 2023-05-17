@@ -2,7 +2,9 @@ port: 4000
 markdown: kramdown
 permalink: '/:title'
 url: ""
-
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 title: nan0m | Fabian Bubla
 description: nan0m portfolio
 author: nan0m
