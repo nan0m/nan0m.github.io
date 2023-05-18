@@ -13,25 +13,25 @@ title: 'Outskirts Visualizer'
 {: .project-properties-table}
 
 Notable features:
-- Midi Controller Responsive:
+- **Midi Controller Responsive:**
 	- Any property in the project can be controlled through midi knobs and faders
-		- **Animations** can be started/stopped through midi/knobs
+		- Animations can be started/stopped through midi/knobs
 		- Cameras can be controlled
 		- Hue/Saturation/Value shifting through knobs
 	- Custom Virtual Display of current Controller Mapping
-- Fracturing Simulation using RigidBodies
-- Custom node that makes properties audio reactive:
+- **Fracturing Simulation** using RigidBodies
+- **Properties react to sound** through a custom created node:
 	- Define frequency range to pick up from microphone,
 	- define property value range,
 	- set interpolation speed
 	= => e.g. wave displacement reacts to the music's bass track
-- Shaders:
+- **Shaders**:
 	- Screen wobble shader
 	- Displacement Shader
 	- Turbulence Particles changing color based on lifetime
 
 
 
-Also checkout Outskirts Music:
+Also checkout *Outskirts*:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6AtmGDix7ziaavtOWpfQZI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
