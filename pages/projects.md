@@ -4,4 +4,4 @@ title: Project Overview
 permalink: /projects
 ---
 
-## Take a closer look at what I do
+## This is what I do:
