@@ -14,7 +14,7 @@ title: 'Clerica'
   <img src="/assets/img/projects/Clerica/Clerica4.png" width="49%" />
 </p>
 
-| Responsibilities: | Programming|
+| Responsibilities: | Programming, Game Design|
 | Period: | 2 days |
 | Framework: | Python/Pygame |
 {: .project-properties-table}

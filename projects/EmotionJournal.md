@@ -2,8 +2,25 @@
 layout: post
 title: 'Emotion Journal'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+// I should put this project on Github.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+![The Wheel of Emotions](\assets\img\projects\EmotionJournal\thumbnail.jpg){: .centered-full-width}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+| Responsibilities: | Programming|
+| Period: | 1 week |
+| Framework: | Godot 3 |
+{: .project-properties-table}
+
+
+I learned about the very prevalent condition of [Alexithymia](https://en.wikipedia.org/wiki/Alexithymia),
+which is the difficulty of identifying and describing one's own or other's emotions. 
+I knew that journaling was an effective practicing method against this, as well as that
+emotion wheels exist to remedy that.
+Consequently, I wanted to create a journaling app, that nudges one away from Alexithymia by:
+
+- highlighting all feelings one types into the journal
+- providing a dropdown that helps identify ever more precisely what one is feeling.
+- making available a body map, where one can cross-reference _where_ in the
+body one feels an emotion, with what emotion that probably is.
+
+![The Wheel of Emotions](\assets\img\projects\EmotionJournal\Emotions_wheelcc0.png)

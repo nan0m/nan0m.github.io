@@ -7,7 +7,7 @@ title: 'Finlay Founds Magical Return Service'
 
 ![FinlayFoundGif](/assets//img/projects/FinlayFound/thumbnail.jpg){: .centered-full-width}
 
-| Responsibilities: | All Art, some of the code|
+| Responsibilities: | All Art, some of the code, Game Design|
 | Period: | 2 days |
 | Framework: | Photoshop / Aseprite |
 | Context: | Global Game Jam 2020 |
