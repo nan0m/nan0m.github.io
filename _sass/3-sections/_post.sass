@@ -1,8 +1,12 @@
 .post-container
-  max-width: 600px
-  margin: 0px auto 30px
+  max-width: $contentWidth
+  //margin: 0px auto 30px
+  //centers contents
+  margin-right: auto
+  margin-left: auto
+  width: 100%
   position: relative
-  display: block
+  //display: block
   h4
     color: black
     line-height: 1.2
@@ -22,3 +26,4 @@
     +position(absolute, -3px null null -35px)
   .loading
     text-align: center
+

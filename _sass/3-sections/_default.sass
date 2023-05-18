@@ -16,11 +16,12 @@ a
 body
   //background: #72baf0
   //font-family: 'Lucida Grande', monospace
-  font-size: 16px
+  font-size: 18px
   
 .site-container
-  width: 750px 
+  width: $totalWidth
   margin: auto
+  //margin: 20px
   //text-align: center
   //color: #f9fefe
 
@@ -31,11 +32,14 @@ code
     width: 95vw
 
 .circular
-  margin: 20px
+  //margin: 20px
   border-radius: 50%
-
+  text-align: center //this centers the damn image wuut
+  margin: auto
 .rounded-edges
   border-radius: 5px
+  width: 100%
+  
 
 
 /* PROJECT PROPERTIES TABLE CUSTOM */
@@ -47,6 +51,9 @@ code
     font-family: sans-serif
     min-width: 400px
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15)
+    //center the table
+    margin-left: auto
+    margin-right: auto
 
 .project-properties-table td 
     padding: 12px 15px
