@@ -21,9 +21,11 @@ body
 .site-container
   width: 750px 
   margin: auto
-  text-align: center
+  //text-align: center
   //color: #f9fefe
 
+code
+  text-align: center
 @media (max-width: 768px)
   .site-container
     width: 95vw
@@ -31,3 +33,39 @@ body
 .circular
   margin: 20px
   border-radius: 50%
+
+.rounded-edges
+  border-radius: 5px
+
+
+/* PROJECT PROPERTIES TABLE CUSTOM */
+/* https://dev.to/dcodeyt/creating-beautiful-html-tables-with-css-428l */
+.project-properties-table
+    border-collapse: collapse
+    margin: 25px 0
+    font-size: 0.9em
+    font-family: sans-serif
+    min-width: 400px
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15)
+
+.project-properties-table td 
+    padding: 12px 15px
+
+.project-properties-table thead tr
+    background-color: #009879
+    color: #ffffff
+    text-align: left
+
+.project-properties-table th td
+    padding: 12px 15px
+
+.project-properties-table tbody tr
+    border-bottom: 1px solid #dddddd
+
+
+.project-properties-table tbody tr:nth-of-type(even)
+    background-color: #f3f3f3
+
+
+//.project-properties-table tbody tr:last-of-type
+//    border-bottom: 2px solid #009879

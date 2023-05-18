@@ -3,10 +3,36 @@ layout: post
 title: 'Outskirts Visualizer'
 ---
 
-[music](https://www.youtube.com/watch?v=-GGfHTZKhjc&list=OLAK5uy_kIN1BOgwOGjJ1Dho4hBXi-5TOpwIFsiz4&index=2)
+### A visual "instrument" for the debut concert of "Outskirts"
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+![OutskirtsVisualizer](/assets/img/projects/OutskirtsVisualizer/thumbnail.jpg){: .rounded-edges}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+| Responsibilities: | Programming, Tools, Shader|
+| Period: | 1 week |
+| Framework: | Godot 4 |
+{: .project-properties-table}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+Notable features:
+- Midi Controller Responsive:
+	- Any property in the project can be controlled through midi knobs and faders
+		- **Animations** can be started/stopped through midi/knobs
+		- Cameras can be controlled
+		- Hue/Saturation/Value shifting through knobs
+	- Custom Virtual Display of current Controller Mapping
+	- Fracturing Simulation using RigidBodies
+	- Custom node that makes properties audio reactive:
+		- Define frequency range to pick up from microphone,
+		- define property value range,
+		- set interpolation speed
+		= => e.g. wave displacement reacts to the music's bass track
+
+	- Shaders:
+		- Screen wobble shader
+		- Displacement Shader
+		- Turbulence Particles changing color based on lifetime
+
+
+		Also checkout Outskirts Music:
+//![music](https://www.youtube.com/watch?v=-GGfHTZKhjc&list=OLAK5uy_kIN1BOgwOGjJ1Dho4hBXi-5TOpwIFsiz4&index=2)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6AtmGDix7ziaavtOWpfQZI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
