@@ -2,13 +2,13 @@
 # General Site Settings
 
 menu:
+- {name: 'About',    url: 'about'}
 - {name: 'Projects', url: 'projects'}
 #- {name: '2D',  url: '2d'}
 #- {name: '3D',  url: '3d'}
 #- {name: 'Other',  url: 'other'}
 
 #- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
 #- {name: 'writing',    url: 'about'}
 #- {name: 'Contact',  url: 'contact'}
 
