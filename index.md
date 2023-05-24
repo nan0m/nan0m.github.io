@@ -3,6 +3,17 @@ layout: default
 title: Home
 ---
 
+
+- To do:
+    - Layout:
+        - Top bar
+        - wider total frame
+        - bigger gif frames
+    - Projects:
+        - add Obstacles
+    - Text:
+        - rework about page
+
 # Headline 1
 ## Headline 2
 ### Headline 3

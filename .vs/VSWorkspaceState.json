@@ -3,14 +3,14 @@
     "",
     "\\assets",
     "\\assets\\img",
-    "\\assets\\img\\pages",
-    "\\assets\\img\\pages\\about",
     "\\assets\\img\\projects",
-    "\\assets\\img\\projects\\Clerica",
-    "\\assets\\img\\projects\\MyUKVisaExperience",
-    "\\assets\\img\\projects\\OutskirtsVisualizer",
+    "\\assets\\img\\projects\\DanisInferno",
+    "\\assets\\img\\projects\\EmotionJournal",
+    "\\assets\\img\\projects\\GibelsQuest",
+    "\\assets\\img\\projects\\TKIRacer",
+    "\\projects",
     "\\_sass"
   ],
-  "SelectedNode": "\\pages\\about.md",
+  "SelectedNode": "\\projects\\TKIRacer.md",
   "PreviewInSolutionExplorer": false
 }
