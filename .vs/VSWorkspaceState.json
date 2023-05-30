@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\img",
-    "\\assets\\img\\projects",
-    "\\assets\\img\\projects\\DanisInferno",
-    "\\assets\\img\\projects\\EmotionJournal",
-    "\\assets\\img\\projects\\GibelsQuest",
-    "\\assets\\img\\projects\\TKIRacer",
     "\\projects",
-    "\\_sass"
+    "\\_sass",
+    "\\_sass\\2-base",
+    "\\_sass\\3-sections"
   ],
-  "SelectedNode": "\\projects\\TKIRacer.md",
   "PreviewInSolutionExplorer": false
 }
